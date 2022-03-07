@@ -35,25 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/Brian-Simon/brian-views-counter/raw/master/graph/431478118/small/year.png" height="20"> 81
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/Brian-Simon/brian-views-counter/tree/master/readme/431592046/year.md">
-				brian-views-counter
-			</a>
-		</td>
-		<td>
-			2022/3/5 12:26 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/Brian-Simon/brian-views-counter/raw/master/graph/431592046/small/year.png" height="20"> 31
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/7 6:08 AM UTC</i></small>
+<small><i>Last updated on 2022/3/7 12:10 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
