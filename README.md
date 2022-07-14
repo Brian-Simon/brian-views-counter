@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/7/11 12:34 AM UTC
+			2022/7/12 12:00 AM UTC
 		</td>
 		<td>
-			9
+			10
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Brian-Simon/brian-views-counter/raw/master/graph/431478118/small/year.png" height="20"> 95
+			<img alt="Response time graph" src="https://github.com/Brian-Simon/brian-views-counter/raw/master/graph/431478118/small/year.png" height="20"> 96
 		</td>
 	</tr>
 	<tr>
@@ -42,18 +42,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/7/11 12:35 AM UTC
+			2022/7/12 12:00 AM UTC
 		</td>
 		<td>
-			6
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/Brian-Simon/brian-views-counter/raw/master/graph/431592046/small/year.png" height="20"> 38
+			<img alt="Response time graph" src="https://github.com/Brian-Simon/brian-views-counter/raw/master/graph/431592046/small/year.png" height="20"> 42
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/7/13 6:07 PM UTC</i></small>
+<small><i>Last updated on 2022/7/14 12:39 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
