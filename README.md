@@ -21,6 +21,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/Brian-Simon/brian-views-counter/tree/master/readme/431478118/year.md">
+				Brian-Simon
+			</a>
+		</td>
+		<td>
+			2022/9/28 12:49 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/Brian-Simon/brian-views-counter/raw/master/graph/431478118/small/year.png" height="20"> 96
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/Brian-Simon/brian-views-counter/tree/master/readme/431592046/year.md">
 				brian-views-counter
 			</a>
@@ -37,7 +53,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/9/30 6:43 AM UTC</i></small>
+<small><i>Last updated on 2022/9/30 12:16 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
